@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #c2e0de;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: rgb(67, 50, 50);
+}
+
+.card {
+  position: relative;
+  margin: 1rem;
+}
+
+.card span {
+  display: block;
+  font-size: 10px;
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+  right: 0;
+  color: white;
+  font-size: 2em;
+}
+
+.top {
+  top: 10px;
+}
+
+.bottom {
+  bottom: 60px;
+}

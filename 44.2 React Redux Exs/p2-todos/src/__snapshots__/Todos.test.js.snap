@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`passing snapshot test 1`] = `
+<DocumentFragment>
+  <div
+    class="col-md-6 row"
+  >
+    <div
+      class="p-2 col"
+    >
+      <li
+        class="lead"
+      >
+        wish list
+      </li>
+      <button
+        class="btn btn-warning m-2 btn btn-secondary"
+        type="button"
+      >
+        Edit
+      </button>
+      <button
+        class="btn btn-danger btn btn-secondary"
+        type="button"
+      >
+        Remove
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
