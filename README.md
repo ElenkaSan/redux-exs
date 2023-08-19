@@ -1,10 +1,10 @@
-## Redux exs:
+# Redux exs:
 
-### Redux Mood-faces DOM manipulation JS
+### Redux:
+  - Mood-faces DOM manipulation JS
 
 ### React Redux:
+  - Meme Generator
+  - Todo List
 
-### Meme Generator
-### Todo List
-
-#### Using MUI and Bootstrap
+### Using MUI and Bootstrap
